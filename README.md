@@ -1,2 +1,2 @@
 # PZ1
-{Markdown}<>{main.md}
+{Markdown}< >{main.md}
